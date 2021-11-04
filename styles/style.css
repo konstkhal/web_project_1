@@ -1,5 +1,5 @@
 /*Take  into  consideration  that     normalize.css doesn't  remove  the  margin  or padding  values  of  some  text  elements.  Reset  these  properties  at  the  block level.  Your  project  shouldn't  have  any  margin  or  padding  values  inherited  from the  default  browser  styles.*/
-html * {
+* {
   border: red 1px solid;
 }
 
@@ -20,10 +20,11 @@ html * {
   min-height: 600px;
   max-height: 756px;
   /* parameters for the header section */
-  display: flexbox;
-  /*align-items: center;*/
+  display: flex;
   padding-bottom: 50px;
   background-color: #f2f2f2;
+  /*  justify-content: center;
+  flex-direction: row; */
 }
 
 /* here we have two examples of selectors in order to remind you how to set styles for elements */
@@ -56,12 +57,19 @@ html * {
 
 .header__title {
   width: 730px;
-  height: 64px;
+  margin-left: 64px;
   position: relative;
   align-self: center;
-  margin-left: 64px;
+  justify-self: center;
 }
 
+.header__subtitle {
+  position: absolute;
+  width: 388px;
+  margin-left: 64px;
+  bottom: 30px;
+  z-index: 5;
+}
 .header__link {
 }
 
