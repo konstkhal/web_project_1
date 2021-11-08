@@ -4,12 +4,7 @@
 
 /*Take  into  consideration  that     normalize.css doesn't  remove  the  margin  or padding  values  of  some  text  elements.  Reset  these  properties  at  the  block level.  Your  project  shouldn't  have  any  margin  or  padding  values  inherited  from the  default  browser  styles.*/
 
-.page * {
-  border: red 1px solid;
-}
-
 .page {
-  border: red 1px solid;
   min-width: 1100px;
   /* we don't know how to make mobile versions of websites yet, */
   /* so here we've set a minimum page width */
