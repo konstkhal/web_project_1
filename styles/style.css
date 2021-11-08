@@ -361,6 +361,8 @@ width
   font-size: 18px;
   font-weight: normal;
   padding: 0;
+  text-decoration: none;
+  color: white;
 }
 .footer__social_icons {
   align-self: center;
