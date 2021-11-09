@@ -1,9 +1,4 @@
 /*Take  into  consideration  that     normalize.css doesn't  remove  the  margin  or padding  values  of  some  text  elements.  Reset  these  properties  at  the  block level.  Your  project  shouldn't  have  any  margin  or  padding  values  inherited  from the  default  browser  styles.*/
-
-* {
-  border: 1px solid red;
-}
-
 .page {
   min-width: 1100px;
   /* we don't know how to make mobile versions of websites yet, */
@@ -26,15 +21,9 @@
   max-height: 756px;
   width: 100%;
   flex-direction: column;
-  /*   justify-content: center;
- */ /* parameters for the header section */
   display: flex;
   justify-content: center;
-  /*   padding-bottom: 50px;
- */
   background-color: #f2f2f2;
-  /*   align-self: stretch;
- */
 }
 
 .logo {
@@ -48,8 +37,6 @@
   top: 30px;
   left: 64px;
 }
-/* .logo_place_footer {
-} */
 
 .header__title {
   width: 730px;
