@@ -40,8 +40,7 @@
 
 .header__title {
   width: 730px;
-  margin: 0;
-  left: 64px;
+  margin-left: 64px;
   position: relative;
   justify-self: center;
   z-index: 10;
