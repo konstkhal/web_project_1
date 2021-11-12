@@ -156,6 +156,7 @@
 }
 .section-title_theme_dark {
   margin: 90px 0 0;
+  z-index: 34;
 }
 .section-subtitle {
   width: 60%;
@@ -178,6 +179,7 @@
   justify-content: space-between;
   margin: 0 0 100px;
   padding: 0;
+  z-index: 34;
 }
 .table_theme_dark {
   margin: 0 0 90px;
@@ -214,7 +216,7 @@
 
 .feynman {
   background-color: #f2f2f2;
-  margin: 100px 0 0;
+  margin: 0 0 0;
   display: flex;
   flex-direction: column;
   position: relative;
