@@ -7,4 +7,9 @@
   padding: 0;
   text-decoration: none;
   color: white;
+  transition: opacity 1s linear;
+}
+
+.footer__column:hover {
+  opacity: 0.5;
 }
