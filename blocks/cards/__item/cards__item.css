@@ -1,0 +1,25 @@
+.cards__item {
+  display: block;
+  flex-direction: column;
+  max-width: 25%;
+  margin: 0 100px 0 0;
+  padding: 0;
+  flex-wrap: wrap;
+  /* flex-grow: 1; */
+  /*  justify-self: flex-start;
+  align-self: ; */
+}
+
+.cards__item:nth-of-type(3) {
+  margin: 0;
+}
+
+/* .cards__item:nth-of-type(4) {
+   align-self: center;
+  justify-self: flex-start;
+} */
+.cards__item:nth-of-type(5) {
+  /* align-self: center; */
+
+  justify-self: left;
+}
