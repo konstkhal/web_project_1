@@ -1,7 +1,7 @@
 .cards__item {
   display: block;
   flex-direction: column;
-  max-width: 240px;
+  width: 240px;
   /*   min-width: 210px; */
   margin: 0;
   padding: 0;
@@ -20,6 +20,7 @@
   justify-self: flex-start;
 } */
 .cards__item:nth-of-type(5) {
-  /* align-self: center; */
+  justify-self: flex-start;
   margin: 0 100px;
+  border: solid 1px red;
 }
