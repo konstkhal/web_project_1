@@ -20,9 +20,9 @@
 @import url(../blocks/two-columns/two-columns.css);
 
 /* elements */
-@import url(../blocks/cards/__image/cards_image.css);
+@import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__item/cards__item.css);
-@import url(../blocks/cards/__description/cards_description.css);
+@import url(../blocks/cards/__description/cards__description.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
