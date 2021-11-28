@@ -1,5 +1,6 @@
 .oakley {
   /* border: solid 1px red; */
+  background-color: #f2f2f2;
   display: flex;
   align-self: center;
   justify-content: center;
