@@ -1,0 +1,8 @@
+.resources__logo-zone {
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+  width: 1100px;
+  justify-content: stretch;
+  margin: 80px 0 217px;
+}
