@@ -1,5 +1,11 @@
-Before sending the project for review, create a README.md file in the website root directory.
-Please include the following information in it:
-Project name
-Project description. Describe the functionality, as well as the technologies used
-Plans for finalizing the project, if any. Be specific. Rather than simply writing "refactor code," say something like "fix X using Y in order to get Z." The more detail, the better
+# Learning how to learn
+
+A website about teaching methods (in the ideas offered by global Yandex in its attempts to conquer the Globe)
+
+---
+
+Techologies used - BEM. iframes, animations, flexbox
+
+## Future plans
+
+У меня есть план включить этот проект в мой стартап образовательных технологий p2p для обучения пациентов с диабетом в сообществе
