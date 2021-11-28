@@ -22,5 +22,5 @@
 .cards__item:nth-of-type(5) {
   justify-self: flex-start;
   margin: 0 100px;
-  border: solid 1px red;
+  /*  border: solid 1px red; */
 }
