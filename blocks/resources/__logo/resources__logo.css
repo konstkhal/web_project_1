@@ -1,11 +1,17 @@
 .resources__logo {
-  display: inline-block;
-  background: no-repeat;
-  background-size: 270px 38px;
-  width: 25%;
-  height: 38px;
+  /* display: flex; */
+  /*   background: no-repeat;
+  background-size: 270px 38px; */
+  /*   width: 25%;
+  height: 38px; */
+  transition: opacity 1s linear;
+  justify-content: stretch;
 }
 
+.resources__logo:hover {
+  opacity: 0.5;
+}
+/*
 .resources__logo[href*="ted.com"] {
   background-image: url("../../../images/logo/resources-tedED.png");
 }
@@ -18,3 +24,4 @@
 .resources__logo[href*="goodreads.com"] {
   background-image: url("../../../images/logo/resources-goodreads.png");
 }
+ */

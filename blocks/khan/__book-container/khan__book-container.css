@@ -1,5 +1,13 @@
 .khan__book-container {
   display: flex;
-  top: 68px;
+  padding: 68px 0 0;
+  margin: 0 0 -68px;
   position: relative;
+  overflow: hidden;
+  /*
+After my solution will pass a review i will use next recomendations:
+You can add these two rules to make the image looks like in the brief
+object-fit: cover;
+object-position: top;
+  */
 }

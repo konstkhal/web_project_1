@@ -16,7 +16,7 @@
   flex-direction: column;
 }
 
-.page * a {
+/* .page * a {
   opacity: 1;
   transition: opacity 1s linear;
 }
@@ -24,3 +24,4 @@
 .page * a:hover {
   opacity: 0.5;
 }
+ */
