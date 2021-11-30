@@ -6,6 +6,6 @@
   margin-right: 20px;
 }
 
-.video__iframe:nth-of-type(2) {
+.video__iframe:first-of-type {
   margin-right: 0;
 }
