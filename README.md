@@ -4,8 +4,8 @@ A website about teaching methods (in the ideas offered by global Yandex in its a
 
 ---
 
-Techologies used - BEM. iframes, animations, flexbox
+Technologies used - BEM. iframes, animations, flexbox
 
 ## Future plans
 
-У меня есть план включить этот проект в мой стартап образовательных технологий p2p для обучения пациентов с диабетом в сообществе
+I have a plan to incorporate this project into my peer-to-peer educational technology startup for teaching diabetes patients within the community.
